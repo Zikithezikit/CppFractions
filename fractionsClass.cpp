@@ -1,5 +1,5 @@
 #include <iostream>
-#include "FractionsClass.h"
+#include "FractionsClass.hpp"
 
 // d'tor
 Fractions::~Fractions()

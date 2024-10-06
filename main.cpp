@@ -1,4 +1,4 @@
-#include "FractionsClass.h"
+#include "FractionsClass.hpp"
 
 int main()
 {
